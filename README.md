@@ -1,3 +1,1 @@
-# ruiderie
-
-2022
+# ruiderie.github.io
